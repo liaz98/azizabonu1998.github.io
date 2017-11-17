@@ -1,0 +1,80 @@
+.body{
+	background-image: url(image36.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+.head1{
+	font-size: 30pt;
+	font-family: Castellar;
+	text-align:center;
+	color:white;
+}
+.name{
+	font-family: Verdana;
+	font-size:22pt;
+	text-align:center;
+	color:white;
+}
+.hobbies{
+	font-size:25pt;
+    font-family:Castellar;
+    color:white;
+   text-align:center;
+}
+.interests{
+	font-size:20pt;
+	font-family: verdana;
+	color:white;
+	text-align:left;
+}
+.movies{
+	font-size:25pt;
+	font-family:Castellar;
+	color:magenta;
+}
+.style{background-color:#29B8FB;
+	background-size:cover;
+}
+.head{font-size: 45pt;
+	font-family:Algerian;
+	text-align:center;
+	color:white;
+}
+.list{font-size:33pt;
+	font-family:Cooper black;
+	text-align:left;
+	color:white;
+}
+.myTable {
+  width:70%;
+  text-align:center;
+  background-color:#76EDFF;
+  border-collapse: collapse; 
+  }
+.myTable th { 
+  background-color:#5CB6FF;
+  color: white; 
+  }
+.myTable td, 
+.myTable th {
+  padding: 10px;
+  border: 1px solid white; 
+  }
+.storyline{
+	font-size:27pt;
+	font-family:Verdana;
+	text-align:left;
+	color: white;
+}
+.link{
+	font-size:25pt;
+	font-family:Castellar;
+	color:magenta;
+
+}
+.story{
+	font-size:15pt;
+	font-family:calibria;
+	color:#484848;
+}
